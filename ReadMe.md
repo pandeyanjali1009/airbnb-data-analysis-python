@@ -37,7 +37,10 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
 - Monitor large operators (Sonder, Blueground) as they hold a big share of inventory.
 
 ## 🖼️ Screenshots
-Add 3-4 charts here (listings by borough, price by room type, price spread boxplot, correlation heatmap, price map).
+<img width="1130" height="550" alt="chart1_listings_by_borough" src="https://github.com/user-attachments/assets/927efc35-cba1-4a80-bddd-8650f38d3e9a" />
+<img width="1100" height="580" alt="chart2_price_by_room_type" src="https://github.com/user-attachments/assets/0f9e654f-0895-43de-9bca-20e2f1956102" />
+<img width="1100" height="680" alt="chart3_price_spread_boxplot" src="https://github.com/user-attachments/assets/1dd58986-250f-4764-9b13-ac8c4eab0344" />
+<img width="1090" height="900" alt="chart4_price_map_nyc" src="https://github.com/user-attachments/assets/12530174-46e4-4747-acf2-f7ae422e4046" />
 
 ## ▶️ How to Run
 1. Download `AB_NYC_2019.csv` from Kaggle
